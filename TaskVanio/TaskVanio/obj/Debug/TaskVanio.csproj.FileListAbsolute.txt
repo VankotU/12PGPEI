@@ -1,0 +1,11 @@
+C:\slavena12a\TaskVanio\TaskVanio\bin\Debug\TaskVanio.exe.config
+C:\slavena12a\TaskVanio\TaskVanio\bin\Debug\TaskVanio.exe
+C:\slavena12a\TaskVanio\TaskVanio\bin\Debug\TaskVanio.pdb
+C:\slavena12a\TaskVanio\TaskVanio\obj\Debug\TaskVanio.csproj.AssemblyReference.cache
+C:\slavena12a\TaskVanio\TaskVanio\obj\Debug\TaskVanio.Form1.resources
+C:\slavena12a\TaskVanio\TaskVanio\obj\Debug\TaskVanio.Properties.Resources.resources
+C:\slavena12a\TaskVanio\TaskVanio\obj\Debug\TaskVanio.csproj.GenerateResource.cache
+C:\slavena12a\TaskVanio\TaskVanio\obj\Debug\TaskVanio.csproj.CoreCompileInputs.cache
+C:\slavena12a\TaskVanio\TaskVanio\obj\Debug\TaskVanio.exe
+C:\slavena12a\TaskVanio\TaskVanio\obj\Debug\TaskVanio.pdb
+C:\slavena12a\TaskVanio\TaskVanio\obj\Debug\TaskVanio.SecondForm.resources
