@@ -1,0 +1,10 @@
+C:\Ivan12A\TaskImage\bin\Debug\TaskImage.exe.config
+C:\Ivan12A\TaskImage\bin\Debug\TaskImage.exe
+C:\Ivan12A\TaskImage\bin\Debug\TaskImage.pdb
+C:\Ivan12A\TaskImage\obj\Debug\TaskImage.csproj.AssemblyReference.cache
+C:\Ivan12A\TaskImage\obj\Debug\TaskImage.Form1.resources
+C:\Ivan12A\TaskImage\obj\Debug\TaskImage.Properties.Resources.resources
+C:\Ivan12A\TaskImage\obj\Debug\TaskImage.csproj.GenerateResource.cache
+C:\Ivan12A\TaskImage\obj\Debug\TaskImage.csproj.CoreCompileInputs.cache
+C:\Ivan12A\TaskImage\obj\Debug\TaskImage.exe
+C:\Ivan12A\TaskImage\obj\Debug\TaskImage.pdb
